@@ -18,6 +18,7 @@ class EmailDump():
     completed_dict = {}
     
     scpd_courses = [
+                   'course-v1:Education+mathmindsets+selfpaced',
                    'Education/HTLMath/SelfPaced',
                    'Education/XEDUC115N/Summer2014',
                    'course-v1:Education+XEDUC115N-C1+SelfPaced',
